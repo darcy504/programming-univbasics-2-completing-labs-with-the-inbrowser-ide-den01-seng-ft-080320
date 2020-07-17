@@ -1,5 +1,5 @@
-result = "Hello World!"
-puts result
+puts "Hello World!"
+
 
 
 
